@@ -7,6 +7,6 @@ Alejandro Castellanos es estudiante del Laboratorio de métodos computacionales 
 [Git cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-# En colaboración con:
-
-Setroc Zemog Odranoel Epilef
+## En colaboración con: 
+idmontana
+flgomezc
