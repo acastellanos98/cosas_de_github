@@ -8,5 +8,6 @@ Alejandro Castellanos es estudiante del Laboratorio de métodos computacionales 
 
 
 ## En colaboración con: 
-idmontana \\
+idmontana
+
 flgomezc
