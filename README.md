@@ -9,3 +9,5 @@ Alejandro Castellanos es estudiante del Laboratorio de métodos computacionales 
 
 ## En colaboración con: 
 flgomezc
+
+Juan S. Rodríguez P. JuansFQ2000
